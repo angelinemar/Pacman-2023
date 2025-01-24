@@ -1,0 +1,409 @@
+There are total 8 supported mouse buttons
+Allegro5 initialized
+loaded font: Assets/TinyIslanders.ttf with size 25
+loaded font: Assets/TinyIslanders.ttf with size 50
+loaded font: Assets/TinyIslanders.ttf with size 80
+loaded audio: Assets/Music/menu_theme.ogg
+loaded audio: Assets/Music/inGameTheme.ogg
+loaded audio: Assets/Music/win_theme.ogg
+loaded audio: Assets/Music/walk.ogg
+loaded audio: Assets/Music/speedBeanSound.ogg
+loaded audio: Assets/Music/pacman_death.ogg
+loaded audio: Assets/Music/pacman_intermission.ogg
+loaded audio: Assets/Music/KEY_SOUNDS.ogg
+loaded audio: Assets/Music/startSound.ogg
+loaded audio: Assets/Music/cheatModeOnSound.ogg
+loaded audio: Assets/Music/cheatModeGhostGoIn.ogg
+loaded audio: Assets/Music/cheatModeStop.ogg
+loaded audio: Assets/Music/READY_SOUNDS.ogg
+loaded audio: Assets/Music/lose_theme.ogg
+Menu scene created
+Change scene from (unnamed) to Menu
+loaded image: Assets/settings.png
+loaded image: Assets/settings.png
+loaded image: Assets/testTitle.png
+loaded image: Assets/dropTitle.png
+loaded image: Assets/dropTitle.png
+loaded image: Assets/dropInstructions.png
+Game initialized
+Game start event loop
+Settings scene created
+Change scene from Menu to Settings
+loaded image: Assets/settingsBackground.png
+loaded image: Assets/Down.png
+loaded image: Assets/Down2.png
+loaded image: Assets/Up.png
+loaded image: Assets/Up2.png
+loaded image: Assets/Left.png
+loaded image: Assets/Left2.png
+loaded image: Assets/Right.png
+loaded image: Assets/Right2.png
+loaded image: Assets/girl_run.png
+loaded image: Assets/girl_run2.png
+loaded image: Assets/girl_run3.png
+loaded image: Assets/girl_run4.png
+Key with keycode 59 down
+Menu scene created
+Change scene from Settings to Menu
+loaded image: Assets/settings.png
+loaded image: Assets/settings.png
+loaded image: Assets/testTitle.png
+loaded image: Assets/dropTitle.png
+loaded image: Assets/dropTitle.png
+loaded image: Assets/dropInstructions.png
+Key with keycode 67 down
+Start scene created
+Change scene from Menu to Start
+loaded image: Assets/testBackground.png
+(null)
+
+Creating from default map. row = 30 col = 36
+Assets/map_nthu2.txt
+
+Assets/map_nthu2.txt
+
+loaded image: Assets/girl_run.png
+loaded image: Assets/girl_run2.png
+loaded image: Assets/girl_die.png
+loaded image: Assets/girl_die.png
+creating ghost 0
+
+loaded image: Assets/egg_flee.png
+loaded image: Assets/egg_death.png
+loaded image: Assets/ghost_cat.png
+creating ghost 1
+
+loaded image: Assets/egg_flee.png
+loaded image: Assets/egg_death.png
+loaded image: Assets/ghost_cow.png
+creating ghost 2
+
+loaded image: Assets/egg_flee.png
+loaded image: Assets/egg_death.png
+loaded image: Assets/ghost_rat.png
+creating ghost 3
+
+loaded image: Assets/egg_flee.png
+loaded image: Assets/egg_death.png
+loaded image: Assets/ghost_chic.png
+Beans Nominal: 1 
+Key with keycode 82 down
+Beans Nominal: 2 
+Beans Nominal: 3 
+Beans Nominal: 4 
+Beans Nominal: 5 
+Beans Nominal: 6 
+Beans Nominal: 7 
+Beans Nominal: 8 
+Beans Nominal: 10 
+Beans Nominal: 11 
+Beans Nominal: 12 
+Beans Nominal: 13 
+Beans Nominal: 14 
+Key with keycode 85 down
+Beans Nominal: 15 
+Key with keycode 82 down
+Beans Nominal: 16 
+Key with keycode 85 down
+Beans Nominal: 17 
+Beans Nominal: 18 
+Key with keycode 82 down
+Beans Nominal: 19 
+Beans Nominal: 20 
+Key with keycode 82 down
+Key with keycode 82 down
+Beans Nominal: 21 
+Beans Nominal: 22 
+Beans Nominal: 23 
+Beans Nominal: 24 
+Beans Nominal: 26 
+Key with keycode 84 down
+Beans Nominal: 27 
+Beans Nominal: 28 
+Beans Nominal: 29 
+Key with keycode 83 down
+Beans Nominal: 30 
+Beans Nominal: 31 
+Beans Nominal: 32 
+Beans Nominal: 33 
+Beans Nominal: 34 
+Beans Nominal: 35 
+Key with keycode 84 down
+Beans Nominal: 36 
+Beans Nominal: 37 
+Beans Nominal: 38 
+Beans Nominal: 39 
+Beans Nominal: 40 
+Beans Nominal: 41 
+Beans Nominal: 42 
+Key with keycode 83 down
+Beans Nominal: 43 
+Beans Nominal: 44 
+Beans Nominal: 45 
+Beans Nominal: 46 
+Beans Nominal: 47 
+Beans Nominal: 48 
+Beans Nominal: 49 
+Beans Nominal: 50 
+Beans Nominal: 51 
+Beans Nominal: 52 
+Beans Nominal: 53 
+Beans Nominal: 54 
+Beans Nominal: 55 
+Beans Nominal: 56 
+Beans Nominal: 57 
+Beans Nominal: 58 
+Beans Nominal: 59 
+Beans Nominal: 60 
+Beans Nominal: 62 
+Beans Nominal: 63 
+Beans Nominal: 64 
+Beans Nominal: 65 
+Beans Nominal: 66 
+Beans Nominal: 67 
+Beans Nominal: 68 
+Key with keycode 85 down
+Beans Nominal: 69 
+Beans Nominal: 70 
+Beans Nominal: 71 
+Beans Nominal: 72 
+Beans Nominal: 73 
+Key with keycode 82 down
+Beans Nominal: 74 
+Beans Nominal: 75 
+Beans Nominal: 76 
+Beans Nominal: 77 
+Key with keycode 85 down
+Beans Nominal: 78 
+Beans Nominal: 79 
+Beans Nominal: 80 
+Beans Nominal: 81 
+Beans Nominal: 82 
+Key with keycode 83 down
+Beans Nominal: 83 
+Beans Nominal: 84 
+Beans Nominal: 85 
+Beans Nominal: 86 
+Key with keycode 84 down
+Beans Nominal: 87 
+Beans Nominal: 88 
+Beans Nominal: 89 
+Beans Nominal: 90 
+Key with keycode 82 down
+Key with keycode 84 down
+Beans Nominal: 91 
+Beans Nominal: 92 
+Beans Nominal: 93 
+Beans Nominal: 94 
+Key with keycode 82 down
+Beans Nominal: 95 
+Beans Nominal: 96 
+Beans Nominal: 97 
+Beans Nominal: 98 
+Beans Nominal: 99 
+Beans Nominal: 100 
+Beans Nominal: 101 
+Key with keycode 85 down
+Beans Nominal: 102 
+Beans Nominal: 103 
+Beans Nominal: 104 
+Key with keycode 82 down
+Beans Nominal: 105 
+Beans Nominal: 106 
+Beans Nominal: 107 
+Beans Nominal: 108 
+Beans Nominal: 109 
+Beans Nominal: 110 
+Key with keycode 84 down
+Beans Nominal: 111 
+Key with keycode 82 down
+Beans Nominal: 112 
+Beans Nominal: 113 
+Beans Nominal: 114 
+Beans Nominal: 115 
+Key with keycode 84 down
+Beans Nominal: 116 
+Key with keycode 82 down
+Beans Nominal: 117 
+Beans Nominal: 118 
+Beans Nominal: 119 
+Beans Nominal: 120 
+Beans Nominal: 121 
+Key with keycode 84 down
+Beans Nominal: 122 
+Beans Nominal: 123 
+Key with keycode 84 down
+Key with keycode 84 down
+Beans Nominal: 124 
+Key with keycode 84 down
+Beans Nominal: 125 
+Beans Nominal: 126 
+Beans Nominal: 127 
+Beans Nominal: 128 
+Beans Nominal: 129 
+Beans Nominal: 130 
+Beans Nominal: 131 
+Key with keycode 84 down
+Beans Nominal: 132 
+Key with keycode 83 down
+Beans Nominal: 133 
+Beans Nominal: 134 
+Beans Nominal: 135 
+Beans Nominal: 136 
+Beans Nominal: 137 
+Key with keycode 83 down
+Key with keycode 82 down
+Key with keycode 83 down
+Beans Nominal: 139 
+Beans Nominal: 140 
+Key with keycode 84 down
+Beans Nominal: 141 
+Beans Nominal: 142 
+Key with keycode 83 down
+Beans Nominal: 143 
+Beans Nominal: 144 
+Beans Nominal: 145 
+Beans Nominal: 146 
+Beans Nominal: 147 
+Beans Nominal: 148 
+Beans Nominal: 149 
+Beans Nominal: 151 
+Beans Nominal: 153 
+Beans Nominal: 154 
+Key with keycode 85 down
+Beans Nominal: 155 
+Beans Nominal: 156 
+Beans Nominal: 157 
+Key with keycode 83 down
+Beans Nominal: 158 
+Beans Nominal: 159 
+Beans Nominal: 160 
+Beans Nominal: 161 
+Key with keycode 83 down
+Key with keycode 84 down
+Beans Nominal: 162 
+Key with keycode 83 down
+Beans Nominal: 163 
+Beans Nominal: 164 
+Beans Nominal: 165 
+Beans Nominal: 166 
+Key with keycode 85 down
+Beans Nominal: 167 
+Beans Nominal: 168 
+Beans Nominal: 169 
+Key with keycode 82 down
+Beans Nominal: 170 
+Key with keycode 83 down
+Beans Nominal: 171 
+Beans Nominal: 172 
+Key with keycode 84 down
+Beans Nominal: 173 
+Key with keycode 82 down
+Key with keycode 85 down
+Key with keycode 82 down
+Key with keycode 84 down
+Key with keycode 82 down
+Key with keycode 85 down
+Beans Nominal: 175 
+Beans Nominal: 176 
+Beans Nominal: 177 
+Beans Nominal: 178 
+Beans Nominal: 179 
+Key with keycode 82 down
+Beans Nominal: 180 
+Beans Nominal: 181 
+Beans Nominal: 182 
+Beans Nominal: 183 
+Beans Nominal: 184 
+Beans Nominal: 185 
+Beans Nominal: 186 
+Beans Nominal: 187 
+Beans Nominal: 188 
+Beans Nominal: 189 
+Beans Nominal: 190 
+Key with keycode 83 down
+Beans Nominal: 191 
+Beans Nominal: 192 
+Beans Nominal: 193 
+Beans Nominal: 194 
+Beans Nominal: 195 
+Beans Nominal: 196 
+Key with keycode 84 down
+Beans Nominal: 197 
+Beans Nominal: 198 
+Beans Nominal: 199 
+Beans Nominal: 200 
+Beans Nominal: 201 
+Beans Nominal: 202 
+Beans Nominal: 203 
+Beans Nominal: 204 
+Key with keycode 82 down
+Beans Nominal: 205 
+Beans Nominal: 206 
+Beans Nominal: 207 
+Beans Nominal: 208 
+Beans Nominal: 209 
+Beans Nominal: 210 
+Beans Nominal: 211 
+Key with keycode 83 down
+Key with keycode 85 down
+Key with keycode 82 down
+Key with keycode 85 down
+Beans Nominal: 212 
+Beans Nominal: 213 
+Beans Nominal: 214 
+Key with keycode 82 down
+Key with keycode 85 down
+Beans Nominal: 215 
+Key with keycode 82 down
+Beans Nominal: 216 
+Key with keycode 85 down
+Beans Nominal: 217 
+Beans Nominal: 218 
+Key with keycode 83 down
+Beans Nominal: 219 
+Beans Nominal: 220 
+Beans Nominal: 221 
+Beans Nominal: 222 
+Beans Nominal: 223 
+Key with keycode 82 down
+Key with keycode 83 down
+Key with keycode 82 down
+Key with keycode 84 down
+Key with keycode 83 down
+Key with keycode 84 down
+Key with keycode 83 down
+Key with keycode 84 down
+Key with keycode 83 down
+Key with keycode 84 down
+Key with keycode 83 down
+Beans Nominal: 225 
+Beans Nominal: 226 
+Beans Nominal: 227 
+Beans Nominal: 228 
+Key with keycode 85 down
+Beans Nominal: 229 
+Beans Nominal: 230 
+Beans Nominal: 231 
+Beans Nominal: 232 
+Beans Nominal: 233 
+Beans Nominal: 234 
+Beans Nominal: 235 
+Beans Nominal: 236 
+Key with keycode 84 down
+collide with ghost
+
+Lose scene created
+Change scene from Start to Lose Screen
+loaded image: Assets/testLose.jpg
+Key with keycode 59 down
+Menu scene created
+Change scene from Lose Screen to Menu
+loaded image: Assets/settings.png
+loaded image: Assets/settings.png
+loaded image: Assets/testTitle.png
+loaded image: Assets/dropTitle.png
+loaded image: Assets/dropTitle.png
+loaded image: Assets/dropInstructions.png
+Window close button clicked
+Game end
